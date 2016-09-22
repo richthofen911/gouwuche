@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">ECommerce</string>
+    <string name="title_activity_register">Register</string>
+
+    <string name="login_device_version_too_low">The Android OS version on your device is lower than required(4.4), shutting down!</string>
+    <string name="login_fail">Fail to login</string>
+
+    <string name="beacon_region_leave">You are now out of the beacon detection range</string>
+    <string name="beacon_region_enter">You are now in the beacon detection range</string>
+    <string name="beacon_region_fail_to_enter">Fail to enter the beacon detection range</string>
+
+    <string name="item_name">Item</string>
+    <string name="item_quantity">Qt.</string>
+    <string name="item_price">Price</string>
+
+    <string name="delete_from_cart">Item deleted from your shopping cart</string>
+    <string name="remove_all_from_cart">Remove All</string>
+    <string name="purchase">Checkout</string>
+    <string name="total_price">Total price :\u0020\u0020</string>
+    <string name="thank_you_for_your_purchase">Thank you for your purchase!</string>
+
+    <string name="if_start_shopping">Would you like to start shopping now?</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="signin">Sign in</string>
+    <string name="fail_to_start">Fail to start</string>
+
+    <string name="payment_page">Payment system has not been integrated in, the app will automatically quit in 5 seconds</string>
+
+    <string name="confirm_purchase">Confirm purchase</string>
+
+    <string name="no_bluetooth_chip_found">No Bluetooth chip found on this device</string>
+
+    <string name="title_activity_checkout">Purchase</string>
+
+    <color name="light_gray">#FFECF4FF</color>
+    <color name="button_green">#FF0AA6B4</color>
+    <color name="facebook_blue">#2E2EE6</color>
+    <color name="dark_red">#8F246B</color>
+    <color name="background_theme">#fefafa</color>
+    <color name="font_white">#FFFFFF</color>
+</resources>
